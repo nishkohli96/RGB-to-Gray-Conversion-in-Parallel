@@ -1,0 +1,20 @@
+﻿  Source.cpp
+c:\users\hp\desktop\pcap project\opencl\cl1\cl1\source.cpp(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\hp\desktop\pcap project\opencl\cl1\cl1\source.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\hp\desktop\pcap project\opencl\cl1\cl1\source.cpp(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\hp\desktop\pcap project\opencl\cl1\cl1\source.cpp(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\hp\desktop\pcap project\opencl\cl1\cl1\source.cpp(34): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\hp\desktop\pcap project\opencl\cl1\cl1\source.cpp(107): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\hp\desktop\pcap project\opencl\cl1\cl1\source.cpp(108): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\hp\desktop\pcap project\opencl\cl1\cl1\source.cpp(10): warning C4101: 'm': unreferenced local variable
+c:\users\hp\desktop\pcap project\opencl\cl1\cl1\source.cpp(10): warning C4101: 'mat2': unreferenced local variable
+c:\users\hp\desktop\pcap project\opencl\cl1\cl1\source.cpp(10): warning C4101: 'mat': unreferenced local variable
+  CL1.vcxproj -> C:\Users\HP\Desktop\PCAP project\openCL\CL1\Debug\CL1.exe
+  CL1.vcxproj -> C:\Users\HP\Desktop\PCAP project\openCL\CL1\Debug\CL1.pdb (Partial PDB)
